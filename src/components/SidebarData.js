@@ -4,7 +4,7 @@ import SearchIcon from '@material-ui/icons/Search';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import PlaylistPlayIcon from '@material-ui/icons/PlaylistPlay';
 import ClearAllIcon from '@material-ui/icons/ClearAll';
-import { Home } from '@material-ui/icons';
+
 
 export const SidebarData =[
     {
